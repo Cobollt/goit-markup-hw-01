@@ -1,0 +1,17 @@
+# Local IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files and editor backups
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
